@@ -18,9 +18,6 @@ const signUpBtn = document.getElementById('signup__btn');
 // get login button.
 const loginBtn = document.getElementById('login__submit-btn');
 
-/**
- * hide sing up modal.
- */
 function hideSignUp() {
   // add hide class to hide the sign up.
   signUpContainer.classList.add('signup--hide');
