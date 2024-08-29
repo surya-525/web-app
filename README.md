@@ -1,24 +1,10 @@
-# How to Build a Javascript Chat App [Using CometChat Chat Widget]
-
-Read the full tutorial here: [**>> How to Build a Javascript Chat App [Using CometChat Chat Widget]**](https://www.cometchat.com/tutorials/#)
-
-How to Build a Javascript Chat App [Using CometChat Chat Widget]:
-
-![Javascript Chat Application [Using CometChat Chat Widget]](/screenshots/0.gif)
-<center><figcaption>Javascript Chat Application [Using CometChat Chat Widget]</figcaption></center>
-
 ## Technology
-
-This demo uses:
-
 - CometChat Widget
 - Firebase
 - Uuid
 - Validator
 
-## Running the demo
-
-To run the demo follow these steps:
+## Running 
 
 1. [Head to CometChat Pro and create an account](https://app.cometchat.com/signup)
 2. From the [dashboard](https://app.cometchat.com/apps), add a new app called **"chat-widget"**
@@ -55,14 +41,4 @@ const config = {
 ```
 13. After installing the http-server package, you just need to “cd” to your project’s directory and run “http-server .”
 
-Questions about running the demo? [Open an issue](https://github.com/hieptl/javascript-chat-app/issues). We're here to help ✌️
-
-## Useful links
-
-- 🏠 [CometChat Homepage](https://app.cometchat.com/signup)
-- 🏠 [CometChat Widget](https://prodocs.cometchat.com/v2.1/docs/web-chat-widget)
-- 🚀 [Create your free account](https://app.cometchat.com/apps)
-- 📚 [Documentation](https://prodocs.cometchat.com)
-- 👾 [GitHub](https://www.github.com/cometchat-pro)
-- 🔥 [Firebase](https://console.firebase.google.com)
-- ✨ [Live Demo](https://javascript-chat-app.glitch.me)
+Questions about running the demo? pull a request or contact me.
